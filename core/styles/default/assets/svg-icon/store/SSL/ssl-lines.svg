@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="849.16" height="265" viewBox="0 0 849.16 265">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #2d71e1;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Kształt_1256_kopia" data-name="Kształt 1256 kopia" class="cls-1" d="M1322.86,988c56.57-32.545,110.81-63.526,138.88-78.943,11.8-6.48,26.51-7.113,42.26,1.942,33.06,19,88.15,51.656,130.69,76.989m268.29-149.3c-17.25,10.133-34.87,20.405-48.86,28.386-20.76,11.838-19.4,19.209-4.12,27.929,14.35,8.187,32.97,18.945,52.99,30.57M1123,725s-32.37,18.46-55.49,31.3c-15.18,8.429-18.29,13.521-.51,23.7,43.38,24.823,124,73,124,73" transform="translate(-1053.84 -724)"/>
+</svg>

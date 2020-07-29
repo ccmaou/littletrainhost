@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Warstwa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 840 500" style="enable-background:new 0 0 840 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.12;fill-rule:evenodd;clip-rule:evenodd;}
+	.st1{opacity:0.24;fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);}
+	.st2{opacity:0.1;fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_2_);}
+</style>
+<polygon class="st0" points="840.4,303 679.6,400 679.6,0 840.6,0 "/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="8.401489e-02" y1="199.994" x2="679.629" y2="199.994">
+	<stop  offset="0" style="stop-color:#000000;stop-opacity:0"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</linearGradient>
+<polygon class="st1" points="679.6,400 0.1,0 679.6,0 "/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="841.6033" y1="491.8812" x2="759.8548" y2="350.2887">
+	<stop  offset="0" style="stop-color:#000000;stop-opacity:0"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</linearGradient>
+<polygon class="st2" points="679.8,400.2 841.5,491.9 841.5,303.1 "/>
+</svg>
