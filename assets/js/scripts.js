@@ -15746,7 +15746,7 @@ var recaptchaLoadComplete = false;
 
             // fetch/invoke the grecaptcha lib
             if (recaptchaForms.length) {
-                var gUrl = "https://www.google.com/recaptcha/api.js";
+                var gUrl = "https://www.recaptcha.net/recaptcha/api.js";
                 jQuery.getScript(gUrl, function () {
                     for(var i = postLoad.length -1; i >= 0 ; i--){
                         postLoad[i]();
